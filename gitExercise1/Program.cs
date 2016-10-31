@@ -11,6 +11,12 @@ namespace gitExercise1
         static void Main(string[] args)
         {
             Console.WriteLine("hello from Main!");
+            Console.WriteLine("Writelines commits test1_1");
+            Console.WriteLine("Writelines commits test1_2");
+            Console.WriteLine("Writelines commits test1_3");
+            Console.WriteLine("Success");
+
+
             MyClass.hello();
         }
     }
