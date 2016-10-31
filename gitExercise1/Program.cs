@@ -14,8 +14,8 @@ namespace gitExercise1
             Console.WriteLine("Writelines commits test1_1");
             Console.WriteLine("Writelines commits test1_2");
             Console.WriteLine("Writelines commits test1_3");
-            Console.WriteLine("Success\n\n");
-
+            Console.WriteLine("Succeess!!!");
+            Console.WriteLine("Finished\n\n");
 
             MyClass.hello();
         }
